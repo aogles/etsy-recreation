@@ -3326,6 +3326,4 @@ const data = {
   },
 };
 
-$(document).ready(function(){
-  let template= $("entry-template").html
-}
+export default data;
